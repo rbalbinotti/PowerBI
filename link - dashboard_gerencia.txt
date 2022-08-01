@@ -1,0 +1,7 @@
+https://app.powerbi.com/view?r=eyJrIjoiZTJmYzc2ZTMtZjljNS00Mjg4LThlZTYtY2UxMzg2NTQxOGJmIiwidCI6Ijk1YjU1OTllLTM5MGEtNGEzZi04OWIzLTk5NGFlYTFhZDYzMiJ9
+
+Criação de dashboard para acompanhamento mensal dos resultados de prospecção e realização de eventos.
+Limpeza e padronização dos dados realizadas em python/pandas e alguns ajustes em power query.
+
+Objetivo:
+ facilitar a visualização e acompanhamento da progressão dos contatos e eventos após a reabertura da casa.
